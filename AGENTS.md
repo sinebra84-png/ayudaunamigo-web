@@ -5,7 +5,8 @@ Actualizado: 15 de octubre de 2026. Lee este archivo completo antes de cambiar e
 ## Qué es
 - Sitio de **Ayuda un Amigo**, iniciativa social de Grupo BRANEGA (BRANEGA S.A.C., RUC 20608097784), Arequipa.
 - Estático: HTML, CSS y JS sin compilación. Mismo esquema que `sinebra84-png/branega-web`.
-- Dominio `ayudaunamigo.com` comprado en GoDaddy (confirmado por el dueño el 15/10/2026). Plan: DNS en Cloudflare y hosting en Cloudflare Pages.
+- Repositorio `sinebra84-png/ayudaunamigo-web`, rama `main`. Cloudflare Pages, proyecto `ayudaunamigo-web` (cuenta horizon.arequipa@gmail.com). **Todo lo que llega a `main` se publica solo** en https://ayudaunamigo.com y https://ayudaunamigo-web.pages.dev.
+- Dominio `ayudaunamigo.com` registrado en GoDaddy; DNS en Cloudflare (brad/dolly.ns.cloudflare.com) desde el 16/10/2026. Se borraron los registros A de estacionamiento de GoDaddy importados. `www` redirige al dominio raíz. Sin correo configurado.
 - Vista previa local: `python -m http.server 8123 --bind 127.0.0.1 --directory .`
 
 ## Archivos
@@ -34,7 +35,7 @@ Actualizado: 15 de octubre de 2026. Lee este archivo completo antes de cambiar e
 ## Pendientes
 1. Confirmar con el dueño cómo funciona el Mercadito (entrega, pago al recibir) y qué productos mostrar; publicar fotos de productos reales.
 2. Logo oficial, redes sociales y número/correo propio si existen.
-3. Crear repositorio en GitHub y proyecto en Cloudflare Pages; mover el DNS de ayudaunamigo.com a Cloudflare.
+3. Logo y colores definitivos: el dueño aún no los tiene (16/10/2026); se usa la identidad provisional.
 4. Fechas reales de actividades y fotos con permiso.
 5. Donaciones en dinero solo cuando haya asociación registrada, cuenta propia y revisión legal.
 
